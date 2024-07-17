@@ -1,0 +1,3 @@
+﻿  Bai2.cpp
+C:\Users\GBC\source\repos\BT_Buoi2\Bai2\Bai2.cpp(142,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai2.vcxproj -> C:\Users\GBC\source\repos\BT_Buoi2\x64\Debug\Bai2.exe
