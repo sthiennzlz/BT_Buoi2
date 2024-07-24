@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\",
+  "WorkspaceRootPath": "D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C40C022-1536-4630-88B2-26CF0DFA641C}|Bai2\\Bai2.vcxproj|C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7C40C022-1536-4630-88B2-26CF0DFA641C}|Bai2\\Bai2.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C40C022-1536-4630-88B2-26CF0DFA641C}|Bai2\\Bai2.vcxproj|solutionrelative:Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{150C1E95-5459-4C59-B4C0-EC9CB5700817}|Bai1\\Bai1.vcxproj|C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\Bai1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{150C1E95-5459-4C59-B4C0-EC9CB5700817}|Bai1\\Bai1.vcxproj|D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\Bai1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{150C1E95-5459-4C59-B4C0-EC9CB5700817}|Bai1\\Bai1.vcxproj|solutionrelative:Bai1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bai2.cpp",
-              "DocumentMoniker": "C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\Bai2\\Bai2.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\Bai2\\Bai2.cpp",
               "RelativeDocumentMoniker": "Bai2\\Bai2.cpp",
-              "ToolTip": "C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\Bai2\\Bai2.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\Bai2\\Bai2.cpp",
               "RelativeToolTip": "Bai2\\Bai2.cpp",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAgwKAAAAA4AAAA",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAgwIoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-17T07:22:58.642Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Bai1.cpp",
-              "DocumentMoniker": "C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\Bai1\\Bai1.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\Bai1\\Bai1.cpp",
               "RelativeDocumentMoniker": "Bai1\\Bai1.cpp",
-              "ToolTip": "C:\\Users\\GBC\\source\\repos\\BT_Buoi2\\Bai1\\Bai1.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\Buoi2\\BT_Buoi2\\Bai1\\Bai1.cpp",
               "RelativeToolTip": "Bai1\\Bai1.cpp",
               "ViewState": "AQIAALoAAAAAAAAAAAAwwMwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T06:56:35.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T06:56:35.057Z"
             }
           ]
         }
