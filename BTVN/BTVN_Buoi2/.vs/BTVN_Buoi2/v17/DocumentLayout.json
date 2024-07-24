@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BC9E15-B756-466D-8A87-0F758167748E}|Bai2\\Bai2.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1BC9E15-B756-466D-8A87-0F758167748E}|Bai2\\Bai2.vcxproj|solutionrelative:Bai2\\Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D765A7-27BF-46AE-A543-8E097DF746B4}|Bai1\\Bai1.vcxproj|D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\Bai1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4D765A7-27BF-46AE-A543-8E097DF746B4}|Bai1\\Bai1.vcxproj|solutionrelative:Bai1\\Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai2.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\Bai2\\Bai2.cpp",
+              "RelativeDocumentMoniker": "Bai2\\Bai2.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\Bai2\\Bai2.cpp",
+              "RelativeToolTip": "Bai2\\Bai2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-23T13:22:01.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1.cpp",
+              "DocumentMoniker": "D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\Bai1\\Bai1.cpp",
+              "RelativeDocumentMoniker": "Bai1\\Bai1.cpp",
+              "ToolTip": "D:\\TH-KTLT\\HUIT\\BTVN_B2\\BTVN_Buoi2\\Bai1\\Bai1.cpp",
+              "RelativeToolTip": "Bai1\\Bai1.cpp",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAJkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T14:32:02.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
